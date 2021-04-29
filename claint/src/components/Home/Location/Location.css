@@ -1,0 +1,16 @@
+.map-section{
+    height:700px;
+
+}
+.map{
+    height:600px
+}
+.location-text{
+    color: rgb(122, 255, 233);
+    padding-top: 90px;
+    padding-left: 50px;
+}
+.main{
+    background: rgb(47,47,46);
+background: linear-gradient(0deg, rgba(47,47,46,0) 0%, rgba(255,162,0,0.4458158263305322) 23%, rgba(184,173,10,0.37298669467787116) 74%, rgba(249,255,0,0.03125) 100%);
+}

@@ -1,0 +1,16 @@
+.sidebar{
+  
+    position: fixed; 
+    background: rgb(47,47,46);
+background: linear-gradient(0deg, rgba(47,47,46,1) 0%, rgba(1,107,233,0.7315301120448179) 31%, rgba(6,31,214,0.5970763305322129) 60%, rgba(0,211,255,1) 100%);
+}
+.sidebar li{
+    margin-bottom: 2em;
+}
+.sidebar li:hover span{
+    display: inline-block;
+    transform: translate(5px);
+}
+.sidebar svg{
+    margin-right: 5px;
+}

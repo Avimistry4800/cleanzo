@@ -1,0 +1,10 @@
+.service-card{
+    box-shadow: 3px 12px 20px -4px rgba(0,0,0,0.16);
+-webkit-box-shadow: 3px 12px 20px -4px rgba(0,0,0,0.16);
+-moz-box-shadow: 3px 12px 20px -4px rgba(0,0,0,0.16);
+border-radius: 20px;
+
+}
+.service-card img{
+max-height: 300px;
+}

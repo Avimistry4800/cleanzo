@@ -1,0 +1,11 @@
+.home{
+    background-image: url(../../Image/main-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:auto;
+    height: 950px;
+
+}
+.bottom{
+    background: rgb(0,62,97);
+    background: linear-gradient(0deg, rgba(0,62,97,0.8379726890756303) 0%, rgba(3,128,228,0.5606617647058824) 31%, rgba(3,161,207,0.30575980392156865) 60%, rgba(245,255,0,0.08727240896358546) 100%); }

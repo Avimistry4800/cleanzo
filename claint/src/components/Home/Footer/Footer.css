@@ -1,0 +1,10 @@
+.footer{
+  padding-top: 90px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  height: 500px;
+  background-position: center center;
+  text-align: center;
+  font-weight: normal;
+}

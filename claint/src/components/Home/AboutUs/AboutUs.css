@@ -1,0 +1,8 @@
+.about-us{
+    background: rgb(251,186,4);
+    background: linear-gradient(0deg, rgba(251,186,4,0.05085784313725494) 0%, rgba(236,233,4,0.48503151260504207) 25%, rgba(244,234,76,0.5998774509803921) 52%, rgba(249,255,0,0) 100%);   
+}
+.about-us-text{
+    margin-top:40px;
+    padding : 60px;
+}
